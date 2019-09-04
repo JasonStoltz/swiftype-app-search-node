@@ -5,7 +5,7 @@
 > **Please visit [https://github.com/elastic/app-search-node](https://github.com/elastic/app-search-node) for the up to date version. Thank you! - Elastic**
 
 
-<p align="center"><a href="https://circleci.com/gh/swiftype/swiftype-app-search-node"><img src="https://circleci.com/gh/swiftype/swiftype-app-search-node.svg?style=svg" alt="CircleCI buidl"></a>
+<p align="center">
 <a href="https://github.com/swiftype/swiftype-app-search-node/releases"><img src="https://img.shields.io/github/release/swiftype/swiftype-app-search-node/all.svg?style=flat-square" alt="GitHub release" /></a></p>
 
 > A first-party Node.JS client for building excellent, relevant search experiences with [Elastic App Search](https://www.elastic.co/cloud/app-search-service).
