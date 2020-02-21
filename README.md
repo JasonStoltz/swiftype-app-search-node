@@ -2,7 +2,7 @@
 
 > **⚠️ This repository is deprecated ⚠️**
 >
-> **Please visit [https://github.com/elastic/app-search-node](https://github.com/elastic/app-search-node) for the up to date version. Thank you! - Elastic**
+> **Please use our [REST API](https://swiftype.com/documentation/app-search/api/overview) directly. Thank you! - Elastic**
 
 
 <p align="center"><a href="https://circleci.com/gh/swiftype/swiftype-app-search-node"><img src="https://circleci.com/gh/swiftype/swiftype-app-search-node.svg?style=svg" alt="CircleCI buidl"></a>
